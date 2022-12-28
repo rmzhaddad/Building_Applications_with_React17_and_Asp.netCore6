@@ -14,3 +14,7 @@ code {
 .red{
   color:red;
 }
+form > a {
+
+  margin-left : 1rem;
+}
